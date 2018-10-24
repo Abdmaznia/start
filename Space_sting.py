@@ -1,0 +1,5 @@
+# Space Between string charcter 
+s = input ("Enter a string:>")
+for i in s:
+    print(i , end=(" "))
+    
